@@ -2,7 +2,6 @@
 # By Yakasami
 # V0.1.0
 import os
-import sys
 import socket
 os.system('cls||clear')
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
