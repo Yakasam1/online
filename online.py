@@ -8,7 +8,7 @@ token = input('Введіть ваш очищений хендшейк: ').repla
 sock.send(bytes.fromhex(token))
 sock.send(bytes.fromhex(token))
 o = sock.recv(1024).decode("utf-8", errors="ignore")
-if o[3] == '(':
+if o[3] == '*':
     print('[√] Успішна відправка хендшейка')
 else:
     print('[X] Невірний хендшейк')
