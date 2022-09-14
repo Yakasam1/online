@@ -11,4 +11,4 @@
 ###### $ ```apt install python -y```
 ###### $ ```git clone https://github.com/Yakasam1/online```
 ###### $ ```cd online```
-###### $ ```python onlineUA.py```
+###### $ ```python infinity-onlineUA.py```
